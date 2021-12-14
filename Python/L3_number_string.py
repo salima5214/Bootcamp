@@ -14,12 +14,15 @@ print("###########################")
 # """ can add next line
 
 print("new line:")
-s = """Hello
+s1 = """Hello
 
 
 world
 """
-print(s)
+
+s2 = "ABC" "DEF"
+print(s1)
+print(s2)
 
 print("###########################")
 
