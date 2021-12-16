@@ -41,7 +41,9 @@ print("index access:")
 print(myString3[1:4])
 print(myString3[1:])
 print(myString3[:3])
+
 print("###########################")
+
 print("concatenate string:")
 print(myString2 + myString3)
 print("Hello "*5 + "World")
