@@ -7,3 +7,6 @@ print(L12_geometry.point.distance(3, 4))
 import L12_geometry.line
 
 print("slope = ", L12_geometry.line.slope(1, 1, 3, 3))
+
+
+
