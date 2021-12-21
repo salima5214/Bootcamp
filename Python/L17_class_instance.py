@@ -1,4 +1,4 @@
-# L17:https://reurl.cc/0xL53k
+# L17: https://reurl.cc/0xL53k
 
 class Point:
     def __init__(self, x, y):
